@@ -8,7 +8,7 @@
 [![GitHub](https://img.shields.io/badge/ECMAs-JavaScript-%23F7DF1E)](https://github.com/pauloreis7/Letmeask)
 [![GitHub size](https://img.shields.io/github/last-commit/pauloreis7/Letmeask?color=blue)](https://github.com/pauloreis7/Letmeask/commits)
 [![GitHub stars](https://img.shields.io/github/stars/pauloreis7/Letmeask?color=%23f9d71c&style=flat)](https://github.com/pauloreis7/Letmeask/stargazers)
-[![GitHub license](https://img.shields.io/github/license/pauloreis7/Letmeask)](https://github.com/pauloreis7/Letmeask/blob/master/LICENSE)
+[![GitHub license](https://img.shields.io/github/license/pauloreis7/Foodfy)](https://github.com/pauloreis7/Letmeask/blob/master/LICENSE)
 	
 </h2>
 
