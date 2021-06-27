@@ -4,11 +4,11 @@
 
 <h2 align="center">
 
-[![GitHub size](https://img.shields.io/github/repo-size/pauloreis7/Foodfy?color=purple)](https://github.com/pauloreis7/Foodfy/issues)
+[![GitHub size](https://img.shields.io/github/repo-size/pauloreis7/Letmeask?color=purple)](https://github.com/pauloreis7/Foodfy/issues)
 [![GitHub](https://img.shields.io/badge/ECMAs-JavaScript-%23F7DF1E)](https://github.com/pauloreis7/Foodfy)
-[![GitHub size](https://img.shields.io/github/last-commit/pauloreis7/Foodfy?color=blue)](https://github.com/pauloreis7/Foodfy/commits)
-[![GitHub stars](https://img.shields.io/github/stars/pauloreis7/Foodfy?color=%23f9d71c&style=flat)](https://github.com/pauloreis7/Foodfy/stargazers)
-[![GitHub license](https://img.shields.io/github/license/pauloreis7/Foodfy)](https://github.com/pauloreis7/Foodfy/blob/master/LICENSE)
+[![GitHub size](https://img.shields.io/github/last-commit/pauloreis7/Letmeask?color=blue)](https://github.com/pauloreis7/Foodfy/commits)
+[![GitHub stars](https://img.shields.io/github/stars/pauloreis7/Letmeask?color=%23f9d71c&style=flat)](https://github.com/pauloreis7/Foodfy/stargazers)
+[![GitHub license](https://img.shields.io/github/license/pauloreis7/Letmeask)](https://github.com/pauloreis7/Foodfy/blob/master/LICENSE)
 	
 </h2>
 
