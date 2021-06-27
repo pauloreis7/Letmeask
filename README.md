@@ -136,4 +136,4 @@ acesse  <http://localhost:3000>
 <a id="license"></a>
 ## 📝 Licença
 ---
-Este projeto esta sobe a licença MIT 🏛️
+Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes. 🏛️
